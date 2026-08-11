@@ -295,8 +295,6 @@ sentient-scout-edge-ai-rover/
     ├── block-diagram.png
     ├── system-architecture.png
     ├── flowchart.png
-    ├── telegram-alert.png
-    ├── target-detection.png
     └── rover.png
 ```
 
