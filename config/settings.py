@@ -1,0 +1,27 @@
+# Camera Settings
+
+FRAME_WIDTH = 640
+FRAME_HEIGHT = 480
+
+CENTER_X = 320
+CENTER_Y = 240
+
+
+# PID Controller Tuning
+
+PAN_P = 0.012
+PAN_I = 0.0
+PAN_D = 0.005
+
+TILT_P = 0.012
+TILT_I = 0.001
+TILT_D = 0.008
+
+
+# Servo Limits
+
+PAN_MIN = -90
+PAN_MAX = 90
+
+TILT_MIN = -90
+TILT_MAX = 90
