@@ -316,18 +316,6 @@ figures, flowcharts, and prototype images.
 
 ---
 
-## ⚠️ 
-
-Use environment variables or local configuration files for sensitive
-information.
-
-For example:
-
-```text
-TELEGRAM_TOKEN=<your_bot_token>
-CHAT_ID=<your_chat_id>
-```
-
 ---
 
 ## 👨‍💻 Author
