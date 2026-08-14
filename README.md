@@ -298,8 +298,7 @@ sentient-scout-edge-ai-rover/
     └── rover.png
 ```
 
-> **Note:** The source-code structure is being reconstructed from the
-> available project documentation. Some original implementation files are
+> **Note:** Some original implementation files are
 > not included in the provided project report.
 
 ---
@@ -317,10 +316,7 @@ figures, flowcharts, and prototype images.
 
 ---
 
-## ⚠️ Security
-
-Private credentials, API tokens, and biometric target images should **never**
-be uploaded to a public repository.
+## ⚠️ 
 
 Use environment variables or local configuration files for sensitive
 information.
@@ -331,8 +327,6 @@ For example:
 TELEGRAM_TOKEN=<your_bot_token>
 CHAT_ID=<your_chat_id>
 ```
-
-**Do not commit real credentials to GitHub.**
 
 ---
 
